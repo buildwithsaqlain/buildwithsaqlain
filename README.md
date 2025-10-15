@@ -28,16 +28,13 @@
 
 - 🌱 Currently learning **AI Integration in Flutter**
 - 👨‍💻 Explore My Work: [github.com/buildwithsaqlain](https://github.com/buildwithsaqlain)
-- 📫 Connect via **LinkedIn** or **Upwork**
+- 📫 Connect via **Upwork**
 
 ---
 
 ### 🤝 **Connect With Me**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/buildwithsaqlain">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="https://www.upwork.com/freelancers/~015cd79cc207f1c0dc">
     <img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white" />
   </a>
