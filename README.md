@@ -1,57 +1,113 @@
-![saqlain](https://github.com/SaqlainMuhammadd/Saqlainmuhammadd/assets/129774784/23b06a8b-8691-45ad-9250-cd44f21a4366)
+<!-- 💫 Animated Typing Intro -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Muhammad+Saqlain!;Mobile+App+Developer+📱;Flutter+Developer+🚀;Digital+Marketer+📈" alt="Typing Animation" />
+</h1>
 
-<h1 align="center">Hi 👋, I'm Muhammad Saqlain</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saqlainmuhammadd&label=Profile%20views&color=0e75b6&style=flat" alt="saqlainmuhammadd" /> </p>
-<p> 💻 Passionate about Flutter App Development 🚀
-📚 Currently exploring Machine Learning, MERN Stack Technologies, and Data Science 🌐
-🎨 Hobbies include Graphic Design and Video Editing 🎥
-📈 Always eager to learn and innovate in the tech world! 💡 </p>
-
-- 🌱 I’m currently learning **AI & ML**
-
-- 📫 How to reach me **saqlainmuhammadd@gmail.com**
-- 👨‍💻 All of my projects are available at **https://github.com/SaqlainMuhammadd**
-
-<div> 
-<a href="https://github.com/saqlainmuhammadd" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:saqlainmuhammadd@ghmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/adobe_illustrator-icon%20(1).svg" alt="Adobe Illustrator" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
+<!-- 🌈 Hero Divider -->
+<p align="center">
+  <img src="https://github.com/DenverCoder1/readme-typing-svg/raw/main/demo.gif" width="900" height="3">
 </p>
 
-<h3 align="left">Stars</h3>
+![buildwithsaqlain](https://github.com/user-attachments/assets/727596d6-c22a-475b-bc60-c5d2d2e7aeb8)
 
-<p><img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=saqlainmuhammadd&show_icons=true&locale=en&theme=dark" alt="saqlainmuhammadd" /> <img align="center" height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=saqlainmuhammadd&theme=dark" alt="saqlainmuhammadd" /></p>
+<h3 align="center"> Software Engineer | Dreamer | Creator — Turning lines of code into experiences that make a difference. </h3>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=buildwithsaqlain&label=Profile%20Views&color=00f7ff&style=flat-square" alt="Profile Views" />
+</p>
+
+---
+
+### 🧠 **About Me**
+
+💻 **Mobile App & Flutter Developer** creating elegant and high-performance apps.  
+📱 Skilled in **cross-platform design, UI/UX**, and performance optimization.  
+📈 **Digital Marketer** helping brands grow with creative campaigns and strategy.  
+🧠 Exploring **AI, Machine Learning**, and **Data-Driven Mobile Solutions**.  
+🎨 Designer by passion — UI/UX, video editing, and branding.
+
+- 🌱 Currently learning **AI Integration in Flutter**
+- 👨‍💻 Explore My Work: [github.com/buildwithsaqlain](https://github.com/buildwithsaqlain)
+- 📫 Connect via **LinkedIn** or **Upwork**
+
+---
+
+### 🤝 **Connect With Me**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/buildwithsaqlain">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~015cd79cc207f1c0dc">
+    <img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🧰 **Languages & Tools**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,js,react,nodejs,mongodb,firebase,git,figma,ps,ai,postman,html,css,tailwind,gcp" />
+</p>
+
+---
+
+### 📊 **GitHub Stats + Profile Insights**
+
 <div align="center">
-<a href="https://github.com/saqlainmuhammadd">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saqlainmuhammadd&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saqlainmuhammadd&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saqlainmuhammadd&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saqlainmuhammadd&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saqlainmuhammadd&theme=2077" height="180em" />
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=saqlainmuhammadd&theme=default"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saqlainmuhammadd&theme=onedark" alt="saqlainmuhammadd" /></a> </p>
+<!-- Row 1: Stats + Top Languages -->
+<table align="center" style="border:none;">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=buildwithsaqlain&show_icons=true&theme=radical&hide_border=true&border_radius=15&count_private=true" height="200px" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildwithsaqlain&layout=donut&theme=radical&hide_border=true&border_radius=15" height="200px" />
+    </td>
+  </tr>
+</table>
+
+<!-- Row 2: Profile Summary (Perfect Alignment) -->
+<p align="center" style="margin-top:10px;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=buildwithsaqlain&theme=radical" width="92%" style="border-radius:15px;" />
+</p>
+
+</div>
+
+---
+
+### ⚡ **Activity Graph**
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=buildwithsaqlain&bg_color=0f2027&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="95%" />
+</p>
+
+---
+
+### 💬 **Quote of the Day**
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" />
+</p>
+
+---
+
+### 🧩 **Animated Contribution Snake**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="animated snake" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/gifs/line-neon.gif" width="100%" height="2">
+</p>
+
+<h3 align="center">✨ Building the Future with Code 💻 — Let’s Collaborate 🚀</h3>
+
+<p align="center">
+  <img src="https://github.com/DenverCoder1/readme-typing-svg/raw/main/demo.gif" width="900" height="3">
+</p>
