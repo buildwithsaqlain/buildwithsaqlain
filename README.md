@@ -1,16 +1,11 @@
 <!-- 💫 Animated Typing Intro -->
+![buildwithsaqlain](https://github.com/user-attachments/assets/727596d6-c22a-475b-bc60-c5d2d2e7aeb8)
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Muhammad+Saqlain!;Mobile+App+Developer+📱;Flutter+Developer+🚀;Digital+Marketer+📈" alt="Typing Animation" />
 </h1>
 
-<!-- 🌈 Hero Divider -->
-<p align="center">
-  <img src="https://github.com/DenverCoder1/readme-typing-svg/raw/main/demo.gif" width="900" height="3">
-</p>
-
-![buildwithsaqlain](https://github.com/user-attachments/assets/727596d6-c22a-475b-bc60-c5d2d2e7aeb8)
-
-<h3 align="center"> Software Engineer | Dreamer | Creator — Turning lines of code into experiences that make a difference. </h3>
+<h3 align="center">✨ Passionate Software Engineer from Pakistan | Dreamer | Creator — Turning lines of code into experiences that make a difference. ✨</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=buildwithsaqlain&label=Profile%20Views&color=00f7ff&style=flat-square" alt="Profile Views" />
@@ -55,7 +50,7 @@
 <div align="center">
 
 <!-- Row 1: Stats + Top Languages -->
-<table align="center" style="border:none;">
+<table align="center" style="border:none; border-collapse: collapse;">
   <tr>
     <td align="center" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=buildwithsaqlain&show_icons=true&theme=radical&hide_border=true&border_radius=15&count_private=true" height="200px" />
@@ -66,8 +61,8 @@
   </tr>
 </table>
 
-<!-- Row 2: Profile Summary (Perfect Alignment) -->
-<p align="center" style="margin-top:10px;">
+<!-- Row 2: Profile Summary -->
+<p align="center" style="margin-top:15px;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=buildwithsaqlain&theme=radical" width="92%" style="border-radius:15px;" />
 </p>
 
@@ -99,12 +94,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/gifs/line-neon.gif" width="100%" height="2">
-</p>
-
-<h3 align="center">✨ Building the Future with Code 💻 — Let’s Collaborate 🚀</h3>
-
-<p align="center">
-  <img src="https://github.com/DenverCoder1/readme-typing-svg/raw/main/demo.gif" width="900" height="3">
-</p>
+<h3 align="center">💡 "Code with purpose, build with passion, and inspire through creation." 💡</h3>
